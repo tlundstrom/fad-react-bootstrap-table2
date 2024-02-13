@@ -1,11 +1,12 @@
 {
   "name": "fad-react-bootstrap-table-next",
-  "version": "4.0.4",
+  "version": "4.0.3",
   "description": "Next generation of react-bootstrap-table",
   "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table/react-bootstrap-table2.git"
+    "url": "git+https://github.com/tlundstrom/fad-react-bootstrap-table2"
   },
   "license": "MIT",
   "keywords": [
@@ -33,6 +34,10 @@
       "name": "Chun-MingChen",
       "email": "nick830314@gmail.com",
       "url": "https://github.com/Chun-MingChen"
+    },
+    {
+      "name": "Thomas Lundstrom",
+      "url": "https://github.com/tlundstrom"
     }
   ],
   "dependencies": {

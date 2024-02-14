@@ -1,6 +1,6 @@
 {
   "name": "fad-react-bootstrap-table-next",
-  "version": "4.0.4",
+  "version": "4.0.5",
   "description": "Next generation of react-bootstrap-table",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",

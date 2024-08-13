@@ -9,7 +9,7 @@ Next generation of [`react-bootstrap-table`](https://github.com/AllenFang/react-
 ### Installation
 
 ```sh
-npm install react-bootstrap-table-next --save
+npm install fad-react-bootstrap-table-next --save
 ```
 
 ### Include CSS

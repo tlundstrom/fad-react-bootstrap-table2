@@ -1,6 +1,6 @@
 {
   "name": "fad-react-bootstrap-table-next",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "description": "Next generation of react-bootstrap-table",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -43,7 +43,7 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "react-transition-group": "^4.2.0",
-    "underscore": "1.9.1"
+    "underscore": "1.13.0-2"
   },
   "peerDependencies": {
     "classnames": "^2.2.5",
